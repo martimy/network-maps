@@ -2,6 +2,10 @@
 
 This repository provides a curated list of interactive maps and visualization tools related to the global Internet infrastructure, including submarine cables, data centers, Internet exchange points, wireless coverage, and performance metrics.  
 
+## Author
+
+Created by Maen Artimy - [Personal Blog](http://adhocnode.com)
+
 ---
 
 ## 📡 Internet Infrastructure Maps
