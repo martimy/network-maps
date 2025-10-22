@@ -78,6 +78,14 @@ Created by Maen Artimy - [Personal Blog](http://adhocnode.com)
 
 ---
 
+## Outages
+
+- **[Internet Outages Map](https://www.thousandeyes.com/outages/)**  
+  *ThousandEyes* - At-a-glance visualization of global Internet health over the last 24 hours, tracking Internet outages across ISPs, top application providers, public clouds, and edge service networks. 
+
+
+---
+
 ## ✅ Usage
 
 This repository is intended as a reference for researchers, network engineers, and students interested in exploring the global Internet infrastructure.  
